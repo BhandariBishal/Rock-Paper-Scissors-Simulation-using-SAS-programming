@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Simulation-using-SAS-programming
 
-/* Rock, Paper, Scissors Simulation with Biased Players
+ Rock, Paper, Scissors Simulation with Biased Players
    Author: Bishal Bhandari
    Purpose: Simulate Rock, Paper, Scissors with biased player choices
    Game Rules:
@@ -13,5 +13,5 @@
      - p2paper: Percentage of time Player 2 chooses paper (0-100)
      - ngames: Number of games to simulate (default 10000)
    Output: A frequency table showing game outcomes with the specified biases
-*/
+
 
